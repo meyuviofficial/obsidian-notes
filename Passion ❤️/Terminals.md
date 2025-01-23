@@ -18,7 +18,7 @@ Being a SRE, my daily day-to-day job is to make love with terminals. I use comma
 - Lua style configs might be a little hard for beginners
 - Doesn't work really well with Windows when compared to other platforms like MacOS & Linux
 
-![[Pasted image 20250123113447.png]]
+![../Img/wezterm-screenshot.png]
 ## [Alacritty](https://alacritty.org/)
 ### Pros
 ### Cons
